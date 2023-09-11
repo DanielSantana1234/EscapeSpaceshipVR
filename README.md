@@ -20,14 +20,12 @@ The game takes place in a far-distance future where more and more humans can tra
 
 ## Team Members
 - Daniel Santana
-- Alfredo Medina
 - Cedric Flor Rey
 - Christian Laverde
 - Allan Martinez
 - Vanessa Chu
 - Alberto Costa
-- Alexander Chirinos
-- Fritz Victor
+  
 ## Credits
 ### Audio
 - Escape Room Scene BGM: https://pixabay.com/music/meditationspiritual-intergalactic-oceans-meditation-132848/
